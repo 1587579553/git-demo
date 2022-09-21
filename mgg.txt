@@ -10,3 +10,4 @@ hello world!I love java more than 3000 times.
 you should love this world!come on!
 hello world!I love java more than 3000 times.
 I love python!
+I love C++,too!
